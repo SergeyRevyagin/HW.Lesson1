@@ -21,6 +21,8 @@ public class Lesson1 {
     float e = 10.55f;
     double f = 10.555566;
     char g = 'i';
+    boolean h =true;
+    
     String str = "Hi";
 
 
